@@ -1,2 +1,2 @@
-# Angry-Birds-stage-8
-jbik
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
